@@ -1,0 +1,8 @@
+
+const types = {
+    START_GET_TASKS: 'START_GET_TASKS',
+    GET_TASK_SUCCESS: 'GET_TASK_SUCCESS',
+    GET_TASK_FAILURE: 'GET_TASK_FAILURE'
+}
+
+export default types
